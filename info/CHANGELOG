@@ -1,0 +1,13 @@
+1.0.0 (2014-05-21) - Initial Release
++ linux: Debian up-to-date minimal environment
++ nginx: initial configuration (@github: arut/nginx-rtmp-module)
++ nginx-rtmp-module: basic hls support
++ nginx-rtmp-module: basic dash support
++ ffmpeg: live channel transcoding
++ ffmpeg: live channel screenshot capture
++ ffmpeg: live channel record transcoding
++ web interface: Bootstrap based interface
++ web interface: live channels listing
++ web interface: recorded videos listing
++ web interface: multiplatform player for live channels and recorded videos
++ web interface: live channels json api
